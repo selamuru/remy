@@ -1,0 +1,83 @@
+Restaurant,Dish Type,Name,Description
+California Pizza Kitchen,Pastas + Specialties,Chicken Tequila Fettuccine,"Our creamy jalapeno lime sauce with spinach fettuccine, red onions, bell peppers and cilantro"
+California Pizza Kitchen,Pastas + Specialties,Asparagus + Spinach Spaghettini,"Fesh asparagus, spinach, housemade checca and Parmesan"
+California Pizza Kitchen,Pastas + Specialties,Jambalaya Fettuccine,"Blackened chicken and shrimp, crawfish, Andouille sausage and Tasso ham in our spicy Cajun sauce"
+California Pizza Kitchen,Pastas + Specialties,Four Cheese Ravioli,"Stuffed with Asiago, Mascarpone, Ricotta and Parmesan tossed in Pomodoro cream sause with basil"
+California Pizza Kitchen,Pastas + Specialties,Pesto Cream Penne,Freshly made basil pesto cream sauce with sun-dried tomatoes and Parmesan
+California Pizza Kitchen,Pastas + Specialties,Kung Pao Spaghetti,"Out twist on a Chinese classic with garlic, scallions, peanuts and hot red chillies"
+California Pizza Kitchen,Pastas + Specialties,Garlic Cream Fettuccine,Our garlic Parmesan creatm sause with fresh Italian parsley
+California Pizza Kitchen,Pastas + Specialties,Bolognese Spaghetti,Our slowly simmered traditional meat sauce sprinkled with Parmesan and parsley
+California Pizza Kitchen,Pastas + Specialties,Chicken Milanese,"Panko-crusted chicken breast topped with arugula and housemade checca, finished with California Olive Ranch extra virgin olive oil and shaved Parmesan."
+California Pizza Kitchen,Pastas + Specialties,Chicken Piccata,"Pan-roasted chicken breast with spaghettini, lemon, capers and cream"
+California Pizza Kitchen,Tacos + Sandwiches,Carnitas Tacos,"Slow-roasted pork topped with housemade avocado salsa verde, red onions and fresh cilantro"
+California Pizza Kitchen,Tacos + Sandwiches,Fish Tacos,"Panko crusted Mahi Mahi, shredded cabbage and housemade ranchito sauce"
+California Pizza Kitchen,Tacos + Sandwiches,Grilled Veggie Sandwich,"Grilled bell peppers, wild mushrooms and melted cheese with field greens, tomatoes and housemade sun-dried tomato aioli"
+California Pizza Kitchen,Tacos + Sandwiches,California Club Sandwich,Oven-roasted turkey or grilled chicken breast with fresh avocado and Nueske's applewood smoked bacon
+California Pizza Kitchen,Tacos + Sandwiches,Grilled Chicken Caesar Sandwich,"With shaved Parmesan, lettuce and tomatoes"
+California Pizza Kitchen,Tacos + Sandwiches,Italian Deli Sandwich,"Spicy Capicola ham, salami and pepperoni with Mozzeralla, basil and lettuce with mustard herb vinaigrette"
+California Pizza Kitchen,Appetizers,Tuscan Hummus,"Tuscan white bean hummus topped with housemade checca and served with warm, hearth-baked traditional or wheat whole grain pita."
+California Pizza Kitchen,Appetizers,Spinach Artichoke Dip,Served hot with tortilla chips
+California Pizza Kitchen,Appetizers,Avocado Club Egg Rolls,"Hand-wrapped crispy wonton rolls filled with avocado, chicken, tomato, Monterey Jack and Nueske’s applewood smoked bacon. Served with housemade ranchito sauce and herb ranch"
+California Pizza Kitchen,Appetizers,Lettuce Wraps,"Fresh Shiitake mushrooms, water chestnuts and scallions tossed in spicy ginger soy"
+California Pizza Kitchen,Appetizers,Sesame Ginger Chicken Dumplings,Chinese dumplings topped with sesame seeds and scallions. Seved with our soy-ginger chili sauce
+California Pizza Kitchen,Appetizers,Tortilla Spring Rolls,Baked in our hearth oven and sprinkled with herbs
+California Pizza Kitchen,Soups,Sedona Tortilla,"Vine-ripened tomatoes, timatillos and corn with mild green chilies, Southwestern spices and crispy tortillas"
+California Pizza Kitchen,Soups,Dakota Smashed Pea + Barley,"A hearty split pea soup with barley, carrots, onions, savory herbs and scallions"
+California Pizza Kitchen,Salads,The Original BBQ Chicken Chopped,"Black beans, sweet corn, jicama, fresh cilantro & basil, crispy corn tortilla strips, Monterey Jack and our housemade herb ranch. Topped with BBQ chicken, tomatoes and scallions."
+California Pizza Kitchen,Salads,Carmelized Peach,"Field greens, spinach, warm caramelized peaches, cranberries, red onions, toasted pecans and Gorgonzola tossed in housemade white balsamic vinaigrette"
+California Pizza Kitchen,Salads,Chinese Chicken,"Napa and red cabbage, lettuce, chicken and wontons tossed with scallions, cilantro, sesame seeds and hoisin ginger vinaigrette"
+California Pizza Kitchen,Salads,Italian Chopped,"Roasted turkey breast, julienned salami, garbanzo beans, tomatoes, Mozzarella and fresh basil tossed in mustard Parmesan vinaigrette"
+California Pizza Kitchen,Salads,California Cobb,"Nueske's applewood smoked bacon, avocado, chicken, tomatoes, chopped egg, fresh basil and Gorgonzola with housemade herb ranch or bleu cheese dressing. Try it with fresh beets."
+California Pizza Kitchen,Salads,Roasted Veggie,"Warm artichoke hearts, asparagus, eggplant, red and yellow peppers, corn and sun-dried tomatoes over cool Romaine, avocado and housemade Dijon balsamic vinaigrette"
+California Pizza Kitchen,Salads,Moroccan-Spiced Chicken,"Roasted butternut squash, dates, avocado, toasted almonds, beets, red peppers, chopped egg and cranberries. Tossed with housemade Champagne vinaigrette"
+California Pizza Kitchen,Salads,Thai Crunch,"Crisp veggies and cilantro with chicken and the crunch of peanuts, wontons and rice sticks. Tossed in Thai peanut dressing."
+California Pizza Kitchen,Salads,Waldorf Chicken,"Grapes, green apples, candied walnuts, crisp celery, field greens and Gorgonzola tossed with housemade Dijon balsamic vinaigrette"
+California Pizza Kitchen,Salads,Classic Caesar,With shaved Parmesan and housemade garlic butter croutons
+California Pizza Kitchen,Original Hand-Tossed Pizzas,The Original BBQ Chicken Pizza,"Our legendary BBQ sauce, smoked Gouda, red onions and cilantro transform this original to iconic"
+California Pizza Kitchen,Original Hand-Tossed Pizzas,Hawaiian BBQ Chicken,We added fresh pineapple for a sweet island twist
+California Pizza Kitchen,Original Hand-Tossed Pizzas,Spicy Chipotle Chicken,"Chipotle adobo sauce, shaved poblanos and Monterey Jack with housemade roasted corn & black bean salsa, fresh cilantro and tangy lime crema"
+California Pizza Kitchen,Original Hand-Tossed Pizzas,Thai Chicken,"Grilled chicken breast with peanut sauce topped with crisp bean sprouts, julienned carrots and slivered scallions"
+California Pizza Kitchen,Original Hand-Tossed Pizzas,Habanero Carnitas,Slow-roasted pulled port and housemaade cilantro pesto. Seved with seriously spicy habanero salsa
+California Pizza Kitchen,Original Hand-Tossed Pizzas,California Club,"Nueske's applewood smoked bacon, roasted chicken and Mozzarella, hearth-baked then topped with avocado, arugula, fresh torn basil and Romaine tossed in lemon-pepper mayo"
+California Pizza Kitchen,Original Hand-Tossed Pizzas,Wild Mushroom,"Shaved Cremini, Shiitake, Portobello and white mushrooms with slivered scallions, cracked black pepper, Percorino Romano and Mozzerlla. Finished with Parmesan."
+California Pizza Kitchen,Original Hand-Tossed Pizzas,The Works,"Spicy Italian sausage, rustic pepperoni, Cremini musthrooms, Mozzarella, red onions, green peppers, olives and wild Greek oregano"
+California Pizza Kitchen,Original Hand-Tossed Pizzas,Mushroom Pepperoni Sausage,"Cremini mushrooms, rustic pepperoni, spicy Italian sausage, fresh torn basil, Mozzarella and wild Greek oregano."
+California Pizza Kitchen,Original Hand-Tossed Pizzas,Pepperoni,A combination of rustic and spicy pepperoni with fresh Mozzarella and wild Greek oregano
+California Pizza Kitchen,Original Hand-Tossed Pizzas,Hawaiian,"Fresh pineapple, applewood smoked ham and slivered scallions"
+California Pizza Kitchen,Original Hand-Tossed Pizzas,White Pizza,"Mozzarella, Ricotta, Parmesan, Pecorino Romano, sautéed spinach and roasted garlic."
+California Pizza Kitchen,Original Hand-Tossed Pizzas,Five Cheese + Fresh Tomato,"Fresh and traditional Mozzarella, Monterey Jack, smoked Gouda and Pecorino Romano with tomato and fresh basil"
+California Pizza Kitchen,Original Hand-Tossed Pizzas,California Veggie,"Baby broccoli, eggplant, Cremini mushrooms, sun-dried tomatoes, roasted corn, red onions and Mozzarella. We love it on wheat whole grain crust."
+California Pizza Kitchen,Crispy Thin Crust Pizzas,Marghertia,"The classic. Italian tomatoes with fresh Mozzarella, fresh basil and Parmesan."
+California Pizza Kitchen,Crispy Thin Crust Pizzas,Tostada,"Crisp lettuce, tortilla strips and housemade herb ranch, top this hearth-baked crust with layers of black beans, melted Cheddar and Monterey Jack. Served with flame-roasted salsa. + Lime Chicken"
+California Pizza Kitchen,Crispy Thin Crust Pizzas,The Meat Cravers,"Italian sausage, pepperoni, applewood smoked ham, spicy Capicola ham and salami."
+California Pizza Kitchen,Crispy Thin Crust Pizzas,Roasted Artichoke + Spinach,"Oven-roasted artichoke hearts, roasted garlic, sautéed spinach, Mozzarella and Parmesan."
+California Pizza Kitchen,Crispy Thin Crust Pizzas,Pear + Gorgonzola,"Bosc pears, sweet caramelized onions and hazelnuts, topped with chilled field greens in housemade Gorgonzola ranch."
+California Pizza Kitchen,Crispy Thin Crust Pizzas,Sicilian,"Spicy marinara, Italian sausage, spicy Capicola ham, salami, Mozzarella, shaved Parmesan, fresh basil and oregano. Rustic meets refined."
+California Pizza Kitchen,Crispy Thin Crust Pizzas,Jamaican Jerk Chicken,"Spicy sweet Caribbean sauce, authentic Jamaican spices, Nueske’s applewood smoked bacon, red onions and bell peppers."
+California Pizza Kitchen,Lite Adventures,Quinoa + Arugula Salad,"Our super-grain salad with asparagus, sun-dried tomatoes, red onions, toasted pine nuts and Feta tossed in our housemade Champagne vinaigrette."
+California Pizza Kitchen,Lite Adventures,Fire-Roasted Chile Relleno,"Spicy poblano stuffed with chicken, cheese, roasted corn & black bean salsa, wild mushrooms, spinach and eggplant. Topped with housemade avocado salsa verde and cilantro."
+California Pizza Kitchen,Lite Adventures,Shrimp Scampi Zucchini Fettuccine,"Sautéed with lemon, garlic and white wine tossed with zucchini ribbons, fettuccine, parsley and Parmesan."
+California Pizza Kitchen,Lite Adventures,Grilled Chicken Chimichurri,Marinated grilled chicken breast with pan-roasted vegetables and our housemade Argentinean inspired chimichurri sauce.
+California Pizza Kitchen,Lite Adventures,Cedar Plank Salmon,Roasted on a cedar plank in our hearth oven with smoked paprika and lime. Served with white corn & spinach succotash topped with Feta.
+California Pizza Kitchen,Small Plates,Bianco,"Whipped truffle cream, Gorgonzola, Mozzarella and fresh sage."
+California Pizza Kitchen,Small Plates,Shaved Mushroom + Spinach,"Cremini mushrooms, sautéed spinach and California Olive Ranch extra virgin olive oil with Romano and Parmesan."
+California Pizza Kitchen,Small Plates,Spicy Fennel Sausage + Poblano,"Torn sausage, fresh Mozzarella, fire-roasted chilies and wild Greek oregano with spicy marinara."
+California Pizza Kitchen,Small Plates,White Corn Guacamole + Chips,"Diced avocado, sweet white corn, black beans, jicama, bell peppers, cilantro and serrano peppers."
+California Pizza Kitchen,Small Plates,Spicy Chicken Tinga Quesadilla,"Lime chicken, Monterey Jack, caramelized onions, roasted peppers, black beans and cilantro, baked in our hearth oven. Served with housemade ranchito sauce."
+California Pizza Kitchen,Small Plates,Petite Wedge,"Topped with bleu cheese dressing, Nueske’s applewood smoked bacon, chopped egg and tomatoes."
+California Pizza Kitchen,Small Plates,Asparagus + Arugula Salad,"Tossed in housemade lemon vinaigrette with sun-dried tomatoes, toasted almonds and shaved Parmesan."
+California Pizza Kitchen,Small Plates,Crispy Mac 'N' Cheese,"Our classic mac ‘n’ cheese lightly fried with panko, served on creamy cheese sauce."
+California Pizza Kitchen,Desserts,Salted Caramel Pudding,"Rich caramel pudding, black cocoa cookie crumbs, housemade whipped cream, caramel sauce and natural flaked sea salt."
+California Pizza Kitchen,Desserts,Red Velvet Cake,Frosted with hand-whipped vanilla bean cream cheese and white chocolate curls. + Haagen-Dazs
+California Pizza Kitchen,Desserts,Key Lime Pie,On a graham cracker crust with housemade whipped cream.
+California Pizza Kitchen,Desserts,Belgian Chocolate Souffle Cake,Warm chocolate cake served with triple-thick hot fudge and vanilla bean sauce. + Haagen-Dazs
+California Pizza Kitchen,Desserts,Butter Cake,Trust us. Just try it. Served warm with housemade whipped cream. + Haagen-Dazs
+California Pizza Kitchen,Desserts,Tiramisu,Sweet Italian cream cheese and marsala custard between layers of espresso and rum-soaked lady fingers.
+California Pizza Kitchen,Specialty Coffees,B-52 Coffee,"Baileys Irish Cream, Kahlua, Grand Marnier"
+California Pizza Kitchen,Specialty Coffees,Irish Coffee,"Jameson Irish Whiskey, Sugar"
+California Pizza Kitchen,Coffee + Teas,Coffee (Regular),
+California Pizza Kitchen,Coffee + Teas,Coffee (Decaf),
+California Pizza Kitchen,Coffee + Teas,Tazo Hot Teas (Awake),Black Tea
+California Pizza Kitchen,Coffee + Teas,Tazo Hot Teas (Zen),Green Tea with Mint + Lemongrass
+California Pizza Kitchen,Coffee + Teas,Tazo Hot Teas (Calm),Caffeine-Free Chamomile
+California Pizza Kitchen,Coffee + Teas,Tazo Hot Teas (Earl Grey),
