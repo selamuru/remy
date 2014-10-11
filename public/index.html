@@ -26,7 +26,48 @@
   </head>
 
   <body>
-    <!-- Navigation -->
+    <!-- Top Navigation -->
+    <div class="navbar navbar-default navbar-static-top" role="navigation">
+      <!--div class="container-fluid"-->
+      <div class="container">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">Remy</a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#contact">Contact</a></li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <span class="caret"></span></a>
+              <ul class="dropdown-menu" role="menu">
+                <li><a href="#">Action</a></li>
+                <li><a href="#">Another action</a></li>
+                <li><a href="#">Something else here</a></li>
+                <li class="divider"></li>
+                <li class="dropdown-header">Nav header</li>
+                <li><a href="#">Separated link</a></li>
+                <li><a href="#">One more separated link</a></li>
+              </ul>
+            </li>
+          </ul>
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="./">Default</a></li>
+            <li class="active"><a href="./">Static top</a></li>
+            <li><a href="./">Fixed top</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+
+    <!-- Bottom Navigation -->
     <nav class="navbar navbar-inverse navbar-fixed-bottom" role="navigation">
       <div class="container">
         <!-- Brand and toggle get grouped for better mobile display -->
@@ -37,7 +78,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">REMY</a>
+          <a class="navbar-brand" href="#">Remy</a>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -60,10 +101,10 @@
 
     <!-- Page Content -->
     <div class="container">
-      <div class="row row-centered">
+      <!--div class="row row-centered">
         <h1>REMY</h1>
         <p>Find your favorite dishes.</p>
-      </div>
+      </div-->
       <!-- /.row -->
       <div class="row" style="padding: 50px 100px 50px;">
         <form role="form" onsubmit="get_restaurants(); toggle_visibility('results', true);">
