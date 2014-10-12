@@ -29,4 +29,18 @@ end
 get "/dish/:name" do
   dishes = Menus.match(name: params[:name])
   dishes.raw_plain["hits"]["hits"].map { |dish| dish["_source"] }.to_json
+  #slim :index, local: { menus: Menus.match(name: params[:word])}
 end
+
+#__END__
+#@@ layout
+#doctype html
+#html
+#  body== yield
+
+# @@ index
+# h1= "#{menus.total} dishes matching “#{params[:name]}”"
+# ul
+#   - menus.results.each do |dish|
+#     li= dish.name
+
