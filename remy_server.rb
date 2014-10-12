@@ -19,7 +19,7 @@ after do
 end
 
 get "/" do
-  File.read(File.join("public", "index.html"))
+  erb :index
 end
 
 get "/healthz" do
@@ -43,4 +43,3 @@ end
 # ul
 #   - menus.results.each do |dish|
 #     li= dish.name
-
