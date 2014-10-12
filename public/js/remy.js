@@ -36,6 +36,7 @@
             $.each(this, function(key, value) {
               console.log(key);
               console.log(value);
+              $("#results").append(markup);
             });
           });
 
