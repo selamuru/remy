@@ -5,6 +5,7 @@
       if (data && data.hits && data.hits.hits) {
         var results = data.hits.hits;
         console.log(results);
+        console.log($("form input").val());
 
         // iterate over all of 'results' text-based elements
         $('#results').children().children('.col-md-5').each(function(outerIndex, outerElement) {
