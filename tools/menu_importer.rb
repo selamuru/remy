@@ -27,7 +27,6 @@ es.index(:menus).create(mappings: { dish_metadata: { properties: {
 id = 1;
 
 Dir["tools/menus/*.csv"].each do |csv_file_path|
-  require "byebug"; byebug
   menu = CSV.read(csv_file_path)
   menu.shift # get rid of the header row
   menu.each do |menu_item|
